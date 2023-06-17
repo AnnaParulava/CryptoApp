@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="slash">/</string>
+    <string name="price_label">Price:</string>
+    <string name="min_price_label">Min Price:</string>
+    <string name="max_price_label">Max Price:</string>
+    <string name="last_market_label">Last Market:</string>
+    <string name="last_updated_label">Last Updated:</string>
+
+</resources>
